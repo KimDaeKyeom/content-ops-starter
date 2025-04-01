@@ -5,7 +5,7 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: 이거시 블로그여~
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
